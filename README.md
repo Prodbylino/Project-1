@@ -1,2 +1,7 @@
-# Project-1
-Group project - group 8
+# Group project - group 8
+
+##Team member; Sean Scotland, Serena Zhao, Lino Zhang
+
+# Description:
+
+
