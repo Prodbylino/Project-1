@@ -8,3 +8,4 @@
 
 * pyplot , pingouin  will be needed
 
+* google API key will be needed, please input in config.py
